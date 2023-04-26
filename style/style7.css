@@ -14,19 +14,79 @@ body {
 	color: grey;
 }
 
-.logo1, .menu1, .menu2, .menu3, .menu4, .menu5 {
+.logo1 {
 	display: inline-block;
 	width: 100px;
-	height: 70px;
+	height: 58px;
 	position: relative;
-	color: #b0b0b0;
 }
 
 .logo1 {
 	top: 30%;
-	margin-left: 100px;
+	margin-left: 150px;
 }
 
 .menu1, .menu2, .menu3, .menu4, .menu5 {
+	display: inline-block;
+	width: 130px;
+	height: 58px;
+	position: relative;
+	color: #b0b0b0;
+	font-family: 'Open Sans', sans-serif;
+	transition: 0.5s linear;
 	top: 20%;
+}
+
+.menu1:hover {
+	color: #ff9b50;
+}
+
+.menu2:hover {
+	color: #ff9b50;
+}
+
+.menu3:hover {
+	color: #ff9b50;
+}
+
+.menu4:hover {
+	color: #ff9b50;
+}
+
+.menu5:hover {
+	color: #ff9b50;
+}
+
+.menu1 {
+	margin-left: 480px;
+}
+
+.header2 {
+	width: 1400px;
+	height: 640px;
+	border: 1px solid white;
+}
+
+#zoom01 {
+	transition: transform 0.5s;
+}
+
+.logo1:hover img {
+	transform: scale(1.1);
+}
+
+.headerphoto {
+	width: 1400px;
+	height: 90px;
+	border: 1px solid white;
+	background: white;
+}
+
+.headerphoto img {
+	opacity: 1;
+	transition: opacity 0.5s linear;
+}
+
+.headerphoto:hover img {
+	opacity: 0.8;
 }
