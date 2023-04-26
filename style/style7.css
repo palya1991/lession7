@@ -1,0 +1,32 @@
+body {
+	background-color: grey;
+}
+
+.headlinks {
+	text-decoration: none;
+}
+
+.header1 {
+	width: 1400px;
+	height: 70px;
+	background-color: black;
+	border: 1px solid white;
+	color: grey;
+}
+
+.logo1, .menu1, .menu2, .menu3, .menu4, .menu5 {
+	display: inline-block;
+	width: 100px;
+	height: 70px;
+	position: relative;
+	color: #b0b0b0;
+}
+
+.logo1 {
+	top: 30%;
+	margin-left: 100px;
+}
+
+.menu1, .menu2, .menu3, .menu4, .menu5 {
+	top: 20%;
+}
