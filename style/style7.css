@@ -211,6 +211,7 @@ color: white;
 
 .social1 {
 	padding-left: 150px;
+	float: left;
 }
 
 .media1 {
@@ -223,4 +224,53 @@ color: white;
 	font-size: 14px;
 	color: #9a9a9a;
 	font-family: Helvetica, sans-serif;
+}
+
+.face1 {
+	display: inline-block;
+	/*background-color: grey;*/
+	margin-left: 70px;
+	margin-top: 27.5px;
+}
+
+.twit1 {
+	display: inline-block;
+	/*background-color: grey;*/
+	margin-left: 45px;
+	margin-top: 27.5px;
+}
+
+.goo1 {
+	display: inline-block;
+	/*background-color: grey;*/
+	margin-left: 45px;
+	margin-top: 27.5px;
+}
+
+.socp1 {
+	display: inline-block;
+	/*background-color: grey;*/
+	margin-left: 45px;
+	margin-top: 27.5px;
+}
+
+.insta1 {
+	display: inline-block;
+	/*background-color: grey;*/
+	margin-left: 45px;
+	margin-top: 27.5px;
+}
+
+.snake1 {
+	display: inline-block;
+	/*background-color: grey;*/
+	margin-left: 45px;
+	margin-top: 27.5px;
+}
+
+.wifi1 {
+	display: inline-block;
+	/*background-color: grey;*/
+	margin-left: 45px;
+	margin-top: 27.5px;
 }
