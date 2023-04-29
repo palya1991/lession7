@@ -513,6 +513,7 @@ body {
 }
 
 .lorem5 {
+	width: 500px;
 	font-size: 15px;
 	font-family: Helvetica, sans-serif;
 	color: #9a9a9a;
@@ -530,16 +531,104 @@ body {
 	font-family: Raleway, sans-serif;
 	text-transform: uppercase;
 	font-size: 35px;
-	margin-left: 480px;
+	margin: 110px 0px -25px 480px;
+	width: 400px;
 }
 
 .defis4 {
-	margin-left: 630px;
+	width: 65px;
+	margin-left: 640px;
 }
 
 .lorem6 {
+	width: 370px;
 	font-size: 15px;
 	font-family: Helvetica, sans-serif;
 	color: #9a9a9a;
 	margin-left: 500px;
+	margin-top: 20px;
+}
+
+.whyblock1 {
+	width: 360px;
+	height: 210px;
+	margin-left: 120px;
+	margin-top: 80px;
+	float: left;
+}
+
+.idea1 {
+	width: 72px;
+	height: 72px;
+	margin-left: 142px;
+}
+
+.thoughtful {
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	font-weight: 700;
+	margin-left: 85px;
+}
+
+.lorem7 .thoughtful1 {
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+	color: #9a9a9a;
+	text-align: center;
+}
+
+.keyboard1 {
+	width: 360px;
+	height: 210px;
+	margin-left: 15px;
+	margin-top: 80px;
+	float: left;
+}
+
+.keyb1 {
+	width: 72px;
+	height: 72px;
+	margin-left: 142px;
+}
+
+.thoughtfu2 {
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	font-weight: 700;
+	margin-left: 120px;
+}
+
+.thoughtful3 {
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+	color: #9a9a9a;
+	text-align: center;
+}
+
+.energybl1 {
+	width: 360px;
+	height: 210px;
+	margin-left: 15px;
+	margin-top: 80px;
+	float: left;
+}
+
+.energy1 {
+	width: 72px;
+	height: 72px;
+	margin-left: 142px;
+}
+
+.thoughtfu4 {
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	font-weight: 700;
+	margin-left: 85px;
+}
+
+.thoughtful5 {
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+	color: #9a9a9a;
+	text-align: center;
 }
