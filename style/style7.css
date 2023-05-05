@@ -890,3 +890,52 @@ body {
 	margin-top: 50px;
 	float: left;
 }
+
+.down02 {
+	width: 1400px;
+	height: 320px;
+	background-color: #9a9a9a;
+}
+
+.stylish1 {
+	font-family: Raleway, sans-serif;
+	text-transform: uppercase;
+	font-size: 35px;
+	text-align: center;
+	padding-top: 70px;
+	color: white;
+}
+
+.defis7 {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.use1 {
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+	color: #d7d7d7;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.download2 {
+	padding-left: 480px;
+}
+
+.images1 {
+	height: 50px;
+	width: 100px;
+}
+
+.images1 img {
+	height: 50px;
+	width: 50px;
+	margin-left: 675px;
+}
+
+.down03 {
+	width: 1400px;
+	height: 610px;
+	border: 1px solid black;
+}
