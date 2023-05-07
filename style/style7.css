@@ -14,8 +14,6 @@ body {
 	width: 1400px;
 	height: 70px;
 	background-color: black;
-	border: 1px solid white;
-	color: grey;
 }
 
 .logo1 {
@@ -63,8 +61,7 @@ body {
 .headerphoto {
 	width: 1400px;
 	height: 90px;
-	border: 1px solid white;
-	background: #9a9a9a;
+	background-color: #9a9a9a;
 }
 
 .headerphoto img {
@@ -85,7 +82,6 @@ body {
 .header2 {
 	width: 1400px;
 	height: 550px;
-	border: 1px solid white;
 	background-color: #9a9a9a;
 }
 
@@ -211,8 +207,7 @@ body {
 .center1 {
 	width: 1400px;
 	height: 105px;
-	border: 1px solid #9a9a9a;
-	box-shadow: 2px 2px 2px #9a9a9a;
+	border-bottom: 2px solid #b7b7b7;
 }
 
 .social1 {
@@ -284,7 +279,7 @@ body {
 .tabs1 {
 	width: 1400px;
 	height: 590px;
-	border: 1px solid black;
+	border: 1px solid #f5f5f5;
 	background-color: #f5f5f5;
 }
 
@@ -397,7 +392,7 @@ body {
 .center2 {
 	width: 1400px;
 	height: 600px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 }
 
 .img2 {
@@ -483,7 +478,7 @@ body {
 .center3 {
 	width: 1400px;
 	height: 525px;
-	border: 1px solid black;
+	border: 1px solid #f5f5f5;
 	background-color: #f5f5f5;
 }
 
@@ -524,7 +519,7 @@ body {
 .center4 {
 	width: 1400px;
 	height: 590px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 }
 
 .why1 {
@@ -637,7 +632,7 @@ body {
 	width: 1400px;
 	height: 880px;
 	background-color: #f5f5f5;
-	border: 1px solid black;
+	border: 1px solid #f5f5f5;
 }
 
 .pricing1 {
@@ -797,7 +792,7 @@ body {
 .down1 {
 	width: 1400px;
 	height: 600px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 }
 
 .saying01 {
@@ -908,7 +903,7 @@ body {
 
 .defis7 {
 	text-align: center;
-	padding-top: 20px;
+	padding-top: 10px;
 }
 
 .use1 {
@@ -937,5 +932,130 @@ body {
 .down03 {
 	width: 1400px;
 	height: 610px;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
+}
+
+.contact1 {
+	font-family: Raleway, sans-serif;
+	text-transform: uppercase;
+	font-size: 35px;
+	text-align: center;
+	padding-top: 105px;
+}
+
+.form01 {
+	width: 520px;
+	height: 40px;
+	margin-left: 140px;
+	margin-top: 50px;
+}
+
+.formname {
+	margin-top: 25px;
+}
+
+.formname input {
+	border: 0;
+	outline: 0;
+	border-bottom: 1px solid #9a9a9a;
+	opacity: .5;
+	height: 40px;
+	width: 520px;
+	box-sizing: border-box;
+	font-size: 18px;
+}
+
+.form02 {
+	width: 520px;
+	height: 40px;
+	margin-left: 140px;
+	margin-top: 20px;
+}
+
+.form03 {
+	width: 520px;
+	height: 40px;
+	margin-left: 140px;
+	margin-top: 20px;
+}
+
+.formleft {
+	float: left;
+}
+
+.form04 textarea {
+	width: 520px;
+	height: 145px;
+	margin-left: 65px;
+	margin-top: 60px;
+	border: 0;
+	outline: 0;
+	border-bottom: 1px solid #9a9a9a;
+	opacity: .5;
+	font-size: 18px;
+	resize: none;
+}
+
+.form04 {
+	float: left;
+}
+
+.down22 {
+	width: 145px;
+	height: 45px;
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 625px;
+}
+
+.down22 button {
+	background-color: #ff9b51;
+	border-radius: 3px;
+	margin: 0;
+	width: 145px;
+	height: 45px;
+	border: 0;
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+	color: white;
+	webkit-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.down22 button:hover {
+	webkit-text-shadow: 3px 3px 3px #9a9a9a;
+	moz-text-shadow: 3px 3px 3px #9a9a9a;
+	text-shadow: 3px 3px 3px #9a9a9a;
+}
+
+footer {
+	width: 1400px;
+	height: 85px;
+	background-color: black;
+}
+
+.social2 {
+	float: left;
+	margin-top: 20px;
+	margin-left: 530px;
+}
+
+.social3 {
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.social4 {
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.axure1 {
+	color: #808080;
+	text-align: center;
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+	margin-top: 5px;
 }
