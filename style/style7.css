@@ -1059,3 +1059,24 @@ footer {
 	font-family: Helvetica, sans-serif;
 	margin-top: 5px;
 }
+
+.topdisp a {
+	text-decoration: none;
+	color: white;
+}
+
+.up {
+	font-family: Raleway, sans-serif;
+	font-size: 40px;
+	font-weight: 900;
+	text-align: center;
+	padding-top: 14px;
+	padding-bottom: 13px;
+	width: 100px;
+	height: 50px;
+	background-image: url(../content/image2.gif);
+	backdrop-filter: blur(7px);
+	border-radius: 5px;
+	background: linear-gradient(100deg, rgba(0, 0, 0, .2));
+	box-shadow: 0 10px 26px 0 rgba(0, 0, 0, .50);
+}
